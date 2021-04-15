@@ -8,12 +8,12 @@ Here are some changes that I plan on doing to this design:
 - Replace the module with an ESP32-PICO-MINI-02
 - Replace the connector with a TypeC
 - Replace the RTC with a smaller package one (RV-8523-C3)
-- (Maybe) Add a QI charger
+- Added a 3D compass/accelerometer/gyroscope IC
 
 ## Tools
 
 To view/modify the files from this repository, install KiCAD from: [https://kicad.org](https://kicad.org). 
-__Must use the nightly version of KiCAD__
+__Must use the nightly version of KiCAD, bonus points if you build it from source__
 
 Also, add the following Symbol/Footprint library to KiCAD: [https://github.com/Open-Smartwatch/Kicad-Libraries](https://github.com/Open-Smartwatch/Kicad-Libraries)
 
