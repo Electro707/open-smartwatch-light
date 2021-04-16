@@ -1,6 +1,7 @@
 # Open-Smartwatch KiCAD files, Electro707's Fork
+# LORA branch
 
-Repo Electro707's fork of the Open-Smartwatch project. You should be in the `e707` branch.
+Repo Electro707's fork of the Open-Smartwatch project. You should be in the `lora` branch.
 
 ## My Changes
 Here are some changes that I plan on doing to this design:
@@ -9,6 +10,7 @@ Here are some changes that I plan on doing to this design:
 - Replace the connector with a TypeC
 - Replace the RTC with a smaller package one (RV-8523-C3)
 - Added a 3D compass/accelerometer/gyroscope IC
+- __Specific to this branch__ LORA!!!
 
 ## Tools
 
