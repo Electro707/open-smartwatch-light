@@ -9,6 +9,7 @@ Here are some changes that I plan on doing to this design:
 - Replace the connector with a TypeC
 - Replace the RTC with a smaller package one (RV-8523-C3)
 - Added a 3D compass/accelerometer/gyroscope IC
+- Added a temperature/humidity/pressure sensor (BME280)
 
 ## Tools
 
