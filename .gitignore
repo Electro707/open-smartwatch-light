@@ -29,3 +29,4 @@ osw-light-backups
 # *.xml
 # *.csv
 gerbers.zip
+gerbers/
