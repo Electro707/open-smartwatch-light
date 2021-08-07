@@ -1,7 +1,0 @@
-(version 1.0)
-(rule HighDensityParts
-   (constraint clearance (min 0.15mm))
-   (condition "A.insideCourtyard('J2')"))
-(rule HighDensityParts2
-   (constraint clearance (min 0.15mm))
-   (condition "A.insideCourtyard('U7')"))
